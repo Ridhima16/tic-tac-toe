@@ -1,0 +1,74 @@
+body{
+	background: url(../../images/background_image.jpg);
+	background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header
+{
+	font-size: 45px;
+	font-family: "Callibri";
+	color: #e66b2e;
+}
+
+h2{
+	font-size: 40px; 
+	font-family: "Callibri"; 
+	color: #d4177f;	
+	text-align: center;
+}
+
+.easy{
+	font-size: 20px; 
+	font-family: "Callibri"; 
+	color: #f7f7f0;	
+	text-align: center;
+}
+
+.button-left{
+	background-color: #ded5d5;
+	color: #c4281f;
+	font-family: "NanumGothic";
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px;
+	width: 110px;
+	border-radius: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float:left;
+	transition: background-color 0.5s;
+	-webkit-transition: background-color 0.5s;
+	-moz-transition: background-color 0.5s;
+	-o-transition: background-color 0.5s;
+}
+
+.button-right{
+	background-color: #ded5d5;
+	color: #c4281f;
+	font-family: "NanumGothic";
+	text-align: center;
+	font-size: 20px;
+	margin-top: 10px;
+	width: 110px;
+	border-radius: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	float:right;
+	transition: background-color 0.5s;
+	-webkit-transition: background-color 0.5s;
+	-moz-transition: background-color 0.5s;
+	-o-transition: background-color 0.5s;
+}
+
+.button-left:hover{
+	background-color: #193fa8;
+	color: #e6e62e;
+}
+
+.button-right:hover{
+	background-color: #193fa8;
+	color: #e6e62e;
+}

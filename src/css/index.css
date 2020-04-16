@@ -1,0 +1,128 @@
+body
+{
+    background: url(../../images/background_image2.jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header
+{
+	font-size: 45px;
+	font-family: "Callibri";
+	color: #e8e8dc;
+}
+
+.button1
+{
+	background-color: #010101;
+	color: #FF007C;
+	font-family: "NanumGothic";
+	text-align: center;
+	font-size: 18px;
+	margin-top: 4%;
+	width: 12%;
+	border-radius: 10%;
+	border-style: solid;
+	border-color: #FF007C;
+	margin-left: 42%;
+	margin-right: auto;
+	display: block;
+	text-decoration: inherit;
+	transition: background-color 0.5s;
+	-webkit-transition: background-color 0.5s;
+	-moz-transition: background-color 0.5s;
+	-o-transition: background-color 0.5s;
+}
+
+.button2
+{
+	background-color: #010101;
+	color: #A7F432;
+	font-family: "NanumGothic";
+	text-align: center;
+	font-size: 18px;
+	margin-top: 3%;
+	width: 12%;
+	border-radius: 10%;
+	border-style: solid;
+	border-color: #A7F432;
+	margin-left: 42%;
+	margin-right: auto;
+	display: block;
+	text-decoration: inherit;
+	transition: background-color 0.5s;
+	-webkit-transition: background-color 0.5s;
+	-moz-transition: background-color 0.5s;
+	-o-transition: background-color 0.5s;
+}
+
+.button3
+{
+	background-color: #010101;
+	color: 	#FF7A00;
+	font-family: "NanumGothic";
+	text-align: center;
+	font-size: 18px;
+	margin-top: 3%;
+	width: 12%;
+	border-radius: 10%;
+	border-style: solid;
+	border-color: #FF7A00;
+	margin-left: 42%;
+	margin-right: auto;
+	display: block;
+	text-decoration: inherit;
+	transition: background-color 0.5s;
+	-webkit-transition: background-color 0.5s;
+	-moz-transition: background-color 0.5s;
+	-o-transition: background-color 0.5s;
+}
+
+.button4
+{
+	background-color: #010101;
+	color: 	#2D66ED;
+	font-family: "NanumGothic";
+	text-align: center;
+	font-size: 18px;
+	margin-top: 3%;
+	width: 12%;
+	border-radius: 10%;
+	border-style: solid;
+	border-color: #2D66ED;
+	margin-left: 42%;
+	margin-right: auto;
+	display: block;
+	text-decoration: inherit;
+	transition: background-color 0.5s;
+	-webkit-transition: background-color 0.5s;
+	-moz-transition: background-color 0.5s;
+	-o-transition: background-color 0.5s;
+}
+
+
+.button1:hover
+{
+	background-color: #FF007C;
+	color: #010101;
+}
+
+.button2:hover
+{
+	background-color: #A7F432;
+	color: #010101;
+}
+
+.button3:hover
+{
+	background-color: #FF7A00;
+	color: #010101;
+}
+
+.button4:hover
+{
+	background-color: #2D66ED;
+	color: #010101;
+}
