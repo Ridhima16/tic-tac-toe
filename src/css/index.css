@@ -14,6 +14,22 @@ header
 	color: #e8e8dc;
 }
 
+a
+{
+	text-decoration: none;
+	background-color: inherit;
+	color: inherit;
+	font-family: inherit;
+	text-align: inherit;
+	font-size: inherit;
+}
+
+a:hover
+{
+	background-color: inherit;
+	color: inherit;
+}
+
 .button1
 {
 	background-color: #010101;
